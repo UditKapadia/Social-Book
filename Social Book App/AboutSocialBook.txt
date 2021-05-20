@@ -1,0 +1,7 @@
+About:
+	Social Book (ver 1.1.0) is a social media based blog-space application where you can share your views, opinions and thoughts or anything or everything you like or something that pops up in your mind with no boundries intended. You can also send and receive messages for free with other Social Book members and hence you can always stay connected.
+	All you need to do is to Sign Up!!! And start sharing.
+
+
+Developers:
+	Sanskruti Shingala (AU1940124); Mansi Savaj (AU1940158); Udit Kapadia (AU1940214)
